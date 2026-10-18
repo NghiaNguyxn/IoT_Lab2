@@ -1,0 +1,14 @@
+{
+  "temperature": {
+    "min": 27.84,
+    "max": 30.2
+  },
+  "humidity": {
+    "min": 62.51,
+    "max": 67.49
+  },
+  "distance_cm": {
+    "min": 101.02,
+    "max": 109.0
+  }
+}
